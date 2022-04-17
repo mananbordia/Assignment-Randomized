@@ -31,7 +31,6 @@ public class RandomizedQuickSortVsMergeSort {
 				.collect(Collectors.toList());
 
 		
-//		System.out.println("Results From Stream : " + results);
 		for (ExperimentClass result : results) {
 			merge.addValues(result.getMergeTime(), result.getMergeCmps());
 			quick.addValues(result.getQuickTime(), result.getQuickCmps());

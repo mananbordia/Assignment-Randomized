@@ -1,0 +1,36 @@
+#!/usr/bin/bash
+pushd $DIR
+
+cmd() {
+    echo "tmux send-keys -t 'demo:Problems' $1 Enter"
+}
+## Add Commands
+
+A1P1=$(cmd 'ls') # Dummy Command for now
+A1P2=$(cmd 'java\ -jar\ problem1-part2.jar')
+A1P3=$(cmd 'java\ -jar\ problem1-part3.jar')
+A2=$(cmd './Assignment.o')
+## Create Splits
+tmux new-session -d -s demo
+tmux new-window -t '=demo' -n 'Problems' 
+tmux split-window -h
+tmux split-window -v
+tmux select-pane -t 1
+tmux split-window -v
+
+## Execute Commands in the correct split
+tmux select-pane -t 1
+eval $A1P1
+tmux select-pane -t 2
+eval $A1P2
+tmux select-pane -t 3
+eval $A1P3
+tmux select-pane -t 4
+eval $A2
+
+if [[ -z "$TMUX" ]]; then
+    tmux attach-session -t '=demo'
+else
+    tmux switch-client -t '=demo'
+fi
+

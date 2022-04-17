@@ -1,0 +1,213 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/manash/code/Assignment1-Randomized/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/c4e38471/
+Analyzer	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	private Analyzer() {$/;"	m	class:Analyzer	file:
+Analyzer	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^public class Analyzer {$/;"	c
+AppTest	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^public class AppTest {$/;"	c
+CS648A.assignment1	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^package CS648A.assignment1;$/;"	p
+CS648A.assignment1.experiments	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^package CS648A.assignment1.experiments;$/;"	p
+CS648A.assignment1.experiments	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^package CS648A.assignment1.experiments;$/;"	p
+CS648A.assignment1.experiments	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^package CS648A.assignment1.experiments;$/;"	p
+CS648A.assignment1.randoms	assignment1/src/main/java/CS648A/assignment1/randoms/RandomGenerator.java	/^package CS648A.assignment1.randoms;$/;"	p
+CS648A.assignment1.sort	assignment1/src/main/java/CS648A/assignment1/sort/DeterministicQuickSort.java	/^package CS648A.assignment1.sort;$/;"	p
+CS648A.assignment1.sort	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^package CS648A.assignment1.sort;$/;"	p
+CS648A.assignment1.sort	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^package CS648A.assignment1.sort;$/;"	p
+CS648A.assignment1.sort	assignment1/src/main/java/CS648A/assignment1/sort/RandomizedQuickSort.java	/^package CS648A.assignment1.sort;$/;"	p
+CS648A.assignment1.sort	assignment1/src/main/java/CS648A/assignment1/sort/Sort.java	/^package CS648A.assignment1.sort;$/;"	p
+Cf	QuickSort.cpp	/^#define Cf(/;"	d	file:
+Cf	Randomised_qs.cpp	/^#define Cf(/;"	d	file:
+CinvMod	QuickSort.cpp	/^ll CinvMod(ll x,ll w)           {return CpowMod(x,w-2,w);}$/;"	f	typeref:typename:ll
+CinvMod	Randomised_qs.cpp	/^ll CinvMod(ll x,ll w)           {return CpowMod(x,w-2,w);}$/;"	f	typeref:typename:ll
+CpowMod	QuickSort.cpp	/^ll CpowMod(ll x,ll y, ll w)     {ll p=1; while(y){if(y%2){p=(p*(x%w))%w;} y\/=2; x=((x%w)*(x%w))/;"	f	typeref:typename:ll
+CpowMod	Randomised_qs.cpp	/^ll CpowMod(ll x,ll y, ll w)     {ll p=1; while(y){if(y%2){p=(p*(x%w))%w;} y\/=2; x=((x%w)*(x%w))/;"	f	typeref:typename:ll
+Crf	QuickSort.cpp	/^#define Crf(/;"	d	file:
+Crf	Randomised_qs.cpp	/^#define Crf(/;"	d	file:
+DeterministicQuickSort	assignment1/src/main/java/CS648A/assignment1/sort/DeterministicQuickSort.java	/^public class DeterministicQuickSort<T extends Comparable<T>> extends QuickSort<T> {$/;"	c
+ExperimentClass	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^class ExperimentClass {$/;"	c
+F	QuickSort.cpp	/^#define F /;"	d	file:
+F	Randomised_qs.cpp	/^#define F /;"	d	file:
+Graph	Assignment2.cpp	/^    Graph(int _n, vector<vector<int>> &_adj) : n(_n), adj(_adj), vis(n) {};$/;"	f	struct:Graph	file:
+Graph	Assignment2.cpp	/^struct Graph {$/;"	s	file:
+GraphBuilder	Assignment2.cpp	/^    GraphBuilder(int _p) : expectedNumberOfEdges(_p), n(N) {};$/;"	f	struct:GraphBuilder	file:
+GraphBuilder	Assignment2.cpp	/^struct GraphBuilder {$/;"	s	file:
+INF	QuickSort.cpp	/^#define INF	/;"	d	file:
+INF	Randomised_qs.cpp	/^#define INF	/;"	d	file:
+MergeSort	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^public class MergeSort<T extends Comparable<T>> implements Sort<T> {$/;"	c
+N	Assignment2.cpp	/^const int N = 1e6;$/;"	v	typeref:typename:const int
+QuickSort	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^public abstract class QuickSort<T extends Comparable<T>> implements Sort<T> {$/;"	c
+QuickSortAnalysis	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^class QuickSortAnalysis {$/;"	c
+RandomGenerator	assignment1/src/main/java/CS648A/assignment1/randoms/RandomGenerator.java	/^public class RandomGenerator {$/;"	c
+RandomizedQuickSort	assignment1/src/main/java/CS648A/assignment1/sort/RandomizedQuickSort.java	/^public class RandomizedQuickSort<T extends Comparable<T>> extends QuickSort<T> {$/;"	c
+RandomizedQuickSortReliability	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^public class RandomizedQuickSortReliability {$/;"	c
+RandomizedQuickSortVsMergeSort	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^public class RandomizedQuickSortVsMergeSort {$/;"	c
+ResultClass2	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	private ResultClass2(int testLength) {$/;"	m	class:ResultClass2	file:
+ResultClass2	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^class ResultClass2 {$/;"	c
+S	QuickSort.cpp	/^#define S /;"	d	file:
+S	Randomised_qs.cpp	/^#define S /;"	d	file:
+SET	QuickSort.cpp	/^#define SET(/;"	d	file:
+SET	Randomised_qs.cpp	/^#define SET(/;"	d	file:
+SZ	QuickSort.cpp	/^#define SZ(/;"	d	file:
+SZ	Randomised_qs.cpp	/^#define SZ(/;"	d	file:
+Sort	assignment1/src/main/java/CS648A/assignment1/sort/Sort.java	/^public interface Sort<T extends Comparable<T>> {$/;"	i
+Test	QuickSort.cpp	/^#define Test /;"	d	file:
+Test	Randomised_qs.cpp	/^#define Test /;"	d	file:
+TestMergeSort	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^	public void TestMergeSort() {$/;"	m	class:AppTest
+TestPlainQuickSort	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^	public void TestPlainQuickSort() {$/;"	m	class:AppTest
+TestRandomQuickSort	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^	public void TestRandomQuickSort() {$/;"	m	class:AppTest
+addRest	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	private List<T> addRest(List<T> right, List<T> result, Integer R) {$/;"	m	class:MergeSort	file:
+addValues	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	public void addValues(long runningTime, long comparisions) {$/;"	m	class:Analyzer
+adj	Assignment2.cpp	/^    vector<vector<int>> adj;$/;"	m	struct:Graph	typeref:typename:vector<vector<int>>	file:
+all	QuickSort.cpp	/^#define all(/;"	d	file:
+all	Randomised_qs.cpp	/^#define all(/;"	d	file:
+artifactId	assignment1/target/maven-archiver/pom.properties	/^artifactId=assignment1$/;"	k
+avgCmpMS	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public Double avgCmpMS;$/;"	f	class:ResultClass2
+avgCmpQS	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public Double avgCmpQS;$/;"	f	class:ResultClass2
+avgTimeMS	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public Double avgTimeMS;$/;"	f	class:ResultClass2
+avgTimeQS	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public Double avgTimeQS;$/;"	f	class:ResultClass2
+baseCase	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	private List<T> baseCase(List<T> array, Integer l, Integer r) {$/;"	m	class:MergeSort	file:
+baseCase	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	private List<T> baseCase(List<T> array, Integer l, Integer r) {$/;"	m	class:QuickSort	file:
+cmps	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	private List<Long> cmps;$/;"	f	class:Analyzer	file:
+comparisions	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^	private long comparisions;$/;"	f	class:QuickSortAnalysis	file:
+comparisionsAvg	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	private Double comparisionsAvg = 0.0;$/;"	f	class:Analyzer	file:
+comps	QuickSort.cpp	/^ll comps;$/;"	v	typeref:typename:ll
+comps	Randomised_qs.cpp	/^ll comps;$/;"	v	typeref:typename:ll
+copyList	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^	private List<Integer> copyList(List<Integer> list) {$/;"	m	class:AppTest	file:
+create	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	public static Analyzer create() {$/;"	m	class:Analyzer
+create	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public static ResultClass2 create(int testLength) {$/;"	m	class:ResultClass2
+endl	QuickSort.cpp	/^#define endl /;"	d	file:
+endl	Randomised_qs.cpp	/^#define endl /;"	d	file:
+err	QuickSort.cpp	/^void err(istream_iterator<string> it) {}$/;"	f	typeref:typename:void
+err	QuickSort.cpp	/^void err(istream_iterator<string> it, T a, Args... args) {cerr << *it << " = " << a << endl; err/;"	f	typeref:typename:void
+err	Randomised_qs.cpp	/^void err(istream_iterator<string> it) {}$/;"	f	typeref:typename:void
+err	Randomised_qs.cpp	/^void err(istream_iterator<string> it, T a, Args... args) {cerr << *it << " = " << a << endl; err/;"	f	typeref:typename:void
+every	QuickSort.cpp	/^#define every(/;"	d	file:
+every	Randomised_qs.cpp	/^#define every(/;"	d	file:
+expectedNumberOfEdges	Assignment2.cpp	/^    int expectedNumberOfEdges;$/;"	m	struct:GraphBuilder	typeref:typename:int	file:
+experiment	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	public void experiment() {$/;"	m	class:Analyzer
+experiments	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	int experiments = 0;$/;"	f	class:Analyzer
+f	QuickSort.cpp	/^#defi/;"	d	file:
+f	Randomised_qs.cpp	/^#defi/;"	d	file:
+gcd	QuickSort.cpp	/^ll gcd(ll a, ll b)              {return b == 0 ? a : gcd(b, a % b);}$/;"	f	typeref:typename:ll
+gcd	Randomised_qs.cpp	/^ll gcd(ll a, ll b)              {return b == 0 ? a : gcd(b, a % b);}$/;"	f	typeref:typename:ll
+getAverage	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	private Double getAverage(List<Long> list) {$/;"	m	class:Analyzer	file:
+getAvgComparisions	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	public Double getAvgComparisions() {$/;"	m	class:Analyzer
+getAvgRunningTime	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	public Double getAvgRunningTime() {$/;"	m	class:Analyzer
+getEdges	Assignment2.cpp	/^    vector<pair<int,int>> getEdges() {$/;"	f	struct:GraphBuilder	typeref:typename:vector<pair<int,int>>	file:
+getGraph	Assignment2.cpp	/^    Graph getGraph() {$/;"	f	struct:GraphBuilder	typeref:typename:Graph	file:
+getIntBetween	assignment1/src/main/java/CS648A/assignment1/randoms/RandomGenerator.java	/^	public static Integer getIntBetween(int origin, int limit) {$/;"	m	class:RandomGenerator
+getMaxComponent	Assignment2.cpp	/^    int getMaxComponent() {$/;"	f	struct:Graph	typeref:typename:int	file:
+getNumber	Assignment2.cpp	/^int getNumber(int a, int b) {$/;"	f	typeref:typename:int
+getNumberOfComparisions	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	public long getNumberOfComparisions() {$/;"	m	class:MergeSort
+getNumberOfComparisions	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	public long getNumberOfComparisions() {$/;"	m	class:QuickSort
+getNumberOfComparisions	assignment1/src/main/java/CS648A/assignment1/sort/Sort.java	/^	public long getNumberOfComparisions();$/;"	m	interface:Sort
+getPivot	assignment1/src/main/java/CS648A/assignment1/sort/DeterministicQuickSort.java	/^	protected Integer getPivot(Integer l, Integer r) {$/;"	m	class:DeterministicQuickSort
+getPivot	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	protected abstract Integer getPivot(Integer l, Integer r);$/;"	m	class:QuickSort
+getPivot	assignment1/src/main/java/CS648A/assignment1/sort/RandomizedQuickSort.java	/^	protected Integer getPivot(Integer l, Integer r) {$/;"	m	class:RandomizedQuickSort
+getRandomDoubleListOfLength	assignment1/src/main/java/CS648A/assignment1/randoms/RandomGenerator.java	/^	public static List<Double> getRandomDoubleListOfLength(int length) {$/;"	m	class:RandomGenerator
+getRandomIntegerListOfLength	assignment1/src/main/java/CS648A/assignment1/randoms/RandomGenerator.java	/^	public static List<Integer> getRandomIntegerListOfLength(int length) {$/;"	m	class:RandomGenerator
+getRuntimes	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^	private QuickSortAnalysis getRuntimes(Integer length) {$/;"	m	class:RandomizedQuickSortReliability	file:
+getSize	Assignment2.cpp	/^    int getSize(int i) {$/;"	f	struct:Graph	typeref:typename:int	file:
+getSortingTime	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	public long getSortingTime() {$/;"	m	class:MergeSort
+getSortingTime	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	public long getSortingTime() {$/;"	m	class:QuickSort
+getSortingTime	assignment1/src/main/java/CS648A/assignment1/sort/Sort.java	/^	public long getSortingTime();$/;"	m	interface:Sort
+groupId	assignment1/target/maven-archiver/pom.properties	/^groupId=CS648A$/;"	k
+hr	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^	private static final String hr = "\\n\\n===================================\\n";$/;"	f	class:RandomizedQuickSortReliability	file:
+ins	QuickSort.cpp	/^#define ins /;"	d	file:
+ins	Randomised_qs.cpp	/^#define ins /;"	d	file:
+invMod	QuickSort.cpp	/^ll invMod(ll x)                 {return powMod(x,z-2);}$/;"	f	typeref:typename:ll
+invMod	Randomised_qs.cpp	/^ll invMod(ll x)                 {return powMod(x,z-2);}$/;"	f	typeref:typename:ll
+length	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^	private final int length = 100;$/;"	f	class:AppTest	file:
+ll	QuickSort.cpp	/^typedef long long               ll;$/;"	t	typeref:typename:long long	file:
+ll	Randomised_qs.cpp	/^typedef long long               ll;$/;"	t	typeref:typename:long long	file:
+main	Assignment2.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	QuickSort.cpp	/^int main(){$/;"	f	typeref:typename:int
+main	Randomised_qs.cpp	/^int main(){$/;"	f	typeref:typename:int
+main	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^	public static void main(String[] args) {$/;"	m	class:RandomizedQuickSortReliability
+main	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public static void main(String[] args) {$/;"	m	class:RandomizedQuickSortVsMergeSort
+make	QuickSort.cpp	/^#define make(/;"	d	file:
+make	Randomised_qs.cpp	/^#define make(/;"	d	file:
+merge	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	private List<T> merge(List<T> left, List<T> right) {$/;"	m	class:MergeSort	file:
+mergeCmps	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	private long mergeCmps;$/;"	f	class:ExperimentClass	file:
+mergeSort	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	private List<T> mergeSort(List<T> array, Integer l, Integer r) {$/;"	m	class:MergeSort	file:
+mergeTime	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	private long mergeTime;$/;"	f	class:ExperimentClass	file:
+mllll	QuickSort.cpp	/^typedef map<ll,ll>              mllll;$/;"	t	typeref:typename:map<ll,ll>	file:
+mllll	Randomised_qs.cpp	/^typedef map<ll,ll>              mllll;$/;"	t	typeref:typename:map<ll,ll>	file:
+mp	QuickSort.cpp	/^#define mp /;"	d	file:
+mp	Randomised_qs.cpp	/^#define mp /;"	d	file:
+mstrll	QuickSort.cpp	/^typedef map<string,ll>          mstrll;$/;"	t	typeref:typename:map<string,ll>	file:
+mstrll	Randomised_qs.cpp	/^typedef map<string,ll>          mstrll;$/;"	t	typeref:typename:map<string,ll>	file:
+n	Assignment2.cpp	/^    int n;$/;"	m	struct:Graph	typeref:typename:int	file:
+n	Assignment2.cpp	/^    int n;$/;"	m	struct:GraphBuilder	typeref:typename:int	file:
+n	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public int n;$/;"	f	class:ResultClass2
+n2log_en	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public Double n2log_en;$/;"	f	class:ResultClass2
+nline	QuickSort.cpp	/^#define nline /;"	d	file:
+nline	Randomised_qs.cpp	/^#define nline /;"	d	file:
+nlog_2n	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public Double nlog_2n;$/;"	f	class:ResultClass2
+numberOfCmps	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	private int numberOfCmps;$/;"	f	class:MergeSort	file:
+numberOfCmps	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	private int numberOfCmps;$/;"	f	class:QuickSort	file:
+overTaken	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public long overTaken;$/;"	f	class:ResultClass2
+partition	QuickSort.cpp	/^ll partition(vll& arr, ll l , ll r){$/;"	f	typeref:typename:ll
+partition	Randomised_qs.cpp	/^ll partition(vll& arr, ll l , ll r){$/;"	f	typeref:typename:ll
+partition_randomised	Randomised_qs.cpp	/^ll partition_randomised(vll& arr, ll l, ll r){$/;"	f	typeref:typename:ll
+pb	QuickSort.cpp	/^#define pb /;"	d	file:
+pb	Randomised_qs.cpp	/^#define pb /;"	d	file:
+perform	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^	private void perform(Integer length) {$/;"	m	class:RandomizedQuickSortReliability	file:
+performExperiment	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	private ExperimentClass performExperiment(int len) {$/;"	m	class:RandomizedQuickSortVsMergeSort	file:
+pll	QuickSort.cpp	/^#define pll /;"	d	file:
+pll	Randomised_qs.cpp	/^#define pll /;"	d	file:
+powMod	QuickSort.cpp	/^ll powMod(ll x,ll y)            {ll p=1; while(y){if(y%2){p=(p*(x%z))%z;} y\/=2; x=((x%z)*(x%z))/;"	f	typeref:typename:ll
+powMod	Randomised_qs.cpp	/^ll powMod(ll x,ll y)            {ll p=1; while(y){if(y%2){p=(p*(x%z))%z;} y\/=2; x=((x%z)*(x%z))/;"	f	typeref:typename:ll
+qll	QuickSort.cpp	/^typedef queue<ll>               qll;$/;"	t	typeref:typename:queue<ll>	file:
+qll	Randomised_qs.cpp	/^typedef queue<ll>               qll;$/;"	t	typeref:typename:queue<ll>	file:
+quickCmps	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	private long quickCmps;$/;"	f	class:ExperimentClass	file:
+quickSort	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	private List<T> quickSort(List<T> array, Integer l, Integer r) {$/;"	m	class:QuickSort	file:
+quickTime	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	private long quickTime;$/;"	f	class:ExperimentClass	file:
+quicksort	QuickSort.cpp	/^void quicksort(vll& arr, ll l , ll r){$/;"	f	typeref:typename:void
+random	assignment1/src/main/java/CS648A/assignment1/randoms/RandomGenerator.java	/^	private final static Random random = new Random();$/;"	f	class:RandomGenerator	file:
+randomised_quicksort	Randomised_qs.cpp	/^void randomised_quicksort(vll& arr, ll l, ll r){$/;"	f	typeref:typename:void
+reps	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^	private final int reps = 500;$/;"	f	class:AppTest	file:
+revelio	QuickSort.cpp	/^    #define revelio(/;"	d	file:
+revelio	Randomised_qs.cpp	/^    #define revelio(/;"	d	file:
+rf	QuickSort.cpp	/^#define rf(/;"	d	file:
+rf	Randomised_qs.cpp	/^#define rf(/;"	d	file:
+runTime	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortReliability.java	/^	private long runTime;$/;"	f	class:QuickSortAnalysis	file:
+runningTimeAvg	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	private Double runningTimeAvg = 0.0;$/;"	f	class:Analyzer	file:
+runningTimes	assignment1/src/main/java/CS648A/assignment1/experiments/Analyzer.java	/^	private List<Long> runningTimes;$/;"	f	class:Analyzer	file:
+sll	QuickSort.cpp	/^typedef set<ll>                 sll;$/;"	t	typeref:typename:set<ll>	file:
+sll	Randomised_qs.cpp	/^typedef set<ll>                 sll;$/;"	t	typeref:typename:set<ll>	file:
+solve	QuickSort.cpp	/^void solve(){$/;"	f	typeref:typename:void
+solve	Randomised_qs.cpp	/^void solve(){$/;"	f	typeref:typename:void
+sort	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	public List<T> sort(List<T> testCase) {$/;"	m	class:MergeSort
+sort	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	public List<T> sort(List<T> testCase) {$/;"	m	class:QuickSort
+sort	assignment1/src/main/java/CS648A/assignment1/sort/Sort.java	/^	public List<T> sort(List<T> testCase);$/;"	m	interface:Sort
+spll	QuickSort.cpp	/^typedef set<pair<ll,ll> >       spll;$/;"	t	typeref:typename:set<pair<ll,ll>>	file:
+spll	Randomised_qs.cpp	/^typedef set<pair<ll,ll> >       spll;$/;"	t	typeref:typename:set<pair<ll,ll>>	file:
+sstr	QuickSort.cpp	/^typedef set<string>             sstr;$/;"	t	typeref:typename:set<string>	file:
+sstr	Randomised_qs.cpp	/^typedef set<string>             sstr;$/;"	t	typeref:typename:set<string>	file:
+testLength	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public void testLength(int len) {$/;"	m	class:RandomizedQuickSortVsMergeSort
+testList	assignment1/src/test/java/CS648A/assignment1/AppTest.java	/^	private boolean testList(Sort<Integer> sorter) {$/;"	m	class:AppTest	file:
+timeTaken	assignment1/src/main/java/CS648A/assignment1/sort/MergeSort.java	/^	private long timeTaken;$/;"	f	class:MergeSort	file:
+timeTaken	assignment1/src/main/java/CS648A/assignment1/sort/QuickSort.java	/^	private long timeTaken;$/;"	f	class:QuickSort	file:
+toString	assignment1/src/main/java/CS648A/assignment1/experiments/RandomizedQuickSortVsMergeSort.java	/^	public String toString() {$/;"	m	class:ResultClass2
+vchar	QuickSort.cpp	/^typedef vector<char>            vchar;$/;"	t	typeref:typename:vector<char>	file:
+vchar	Randomised_qs.cpp	/^typedef vector<char>            vchar;$/;"	t	typeref:typename:vector<char>	file:
+version	assignment1/target/maven-archiver/pom.properties	/^version=0.0.1-SNAPSHOT$/;"	k
+vis	Assignment2.cpp	/^    vector<int> vis;$/;"	m	struct:Graph	typeref:typename:vector<int>	file:
+vll	QuickSort.cpp	/^typedef vector<ll>              vll;$/;"	t	typeref:typename:vector<ll>	file:
+vll	Randomised_qs.cpp	/^typedef vector<ll>              vll;$/;"	t	typeref:typename:vector<ll>	file:
+vpll	QuickSort.cpp	/^typedef vector<pair<ll,ll> >    vpll;$/;"	t	typeref:typename:vector<pair<ll,ll>>	file:
+vpll	Randomised_qs.cpp	/^typedef vector<pair<ll,ll> >    vpll;$/;"	t	typeref:typename:vector<pair<ll,ll>>	file:
+vstr	QuickSort.cpp	/^typedef vector<string>          vstr;$/;"	t	typeref:typename:vector<string>	file:
+vstr	Randomised_qs.cpp	/^typedef vector<string>          vstr;$/;"	t	typeref:typename:vector<string>	file:
+vvll	QuickSort.cpp	/^typedef vector<vector<ll>>      vvll;$/;"	t	typeref:typename:vector<vector<ll>>	file:
+vvll	Randomised_qs.cpp	/^typedef vector<vector<ll>>      vvll;$/;"	t	typeref:typename:vector<vector<ll>>	file:
+z	QuickSort.cpp	/^#define z /;"	d	file:
+z	Randomised_qs.cpp	/^#define z /;"	d	file:
