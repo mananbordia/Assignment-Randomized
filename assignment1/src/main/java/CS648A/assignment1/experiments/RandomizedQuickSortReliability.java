@@ -11,7 +11,7 @@ import CS648A.assignment1.sort.RandomizedQuickSort;
 import lombok.Data;
 
 public class RandomizedQuickSortReliability {
-	private final static String hr = "\n\n===================================\n";
+	private static final String hr = "\n\n===================================\n";
 
 	public static void main(String[] args) {
 		List<Integer> lengths = Arrays.asList(100, 1000, 10000, 100000, 1000000);
