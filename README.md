@@ -10,7 +10,7 @@ Linux
 ```
 sudo apt install tmux
 ```
-Copy the minimal `~/.tmux.conf` file into your **home** directory.
+2. Copy the minimal `~/.tmux.conf` file into your **home** directory.
 ```bash
 set -g prefix C-a
 setw -g pane-base-index 1
@@ -54,6 +54,6 @@ Or if you are in the repository directory
 ```bash
 cp TMUX_CONF.conf ~/.tmux.conf
 ```
-Now simply run `./tmuxScript` and voila!
+3. Now simply run `./tmuxScript` and voila!
 
 Assignments are previewed in their respective numbered panes.
